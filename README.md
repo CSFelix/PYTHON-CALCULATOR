@@ -1,6 +1,17 @@
 # 🌟 PYTHON-CALCULATOR 🌟
 
 ----
+
+### `❓ What's it? ❓`
+* Calculator is an terminal calc where you can do something calc using the math package. Also, I developed a lambda function that calcs the average value of a list. Follow the code:
+
+```
+avg = lambda x: sum(x) / len(x)
+```
+
+* Some suggests and improvements, please, tell me!!! And don't worry about my English, I'm earlier (or noob, whatever) in this language 😂😂.
+
+----
 ### `⚒️ Tools ⚒️`
 * Python 3.5 version or later
 
