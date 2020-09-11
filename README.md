@@ -40,3 +40,11 @@ help(sum)
 avg([1, 0, 5])
 sum([x for x in range(1,5)])
 ```
+----
+### `✉️ Contact ✉️`
+
+> **Email:** `gabrielfelix08@outlook.com`
+
+> **Linkedin:** `---`
+
+> **Instagram:** `---`
