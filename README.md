@@ -3,7 +3,7 @@
 ----
 
 ### `❓ What's it? ❓`
-* Calculator is an terminal calc where you can do something calc using the math package. Also, I developed a lambda function that calcs the average value of a list. Follow the code:
+* Calculator is a terminal where you can do some calculations using the math package. Also, I developed a lambda function that calculates the average value of a list. Follow the code:
 
 ```
 avg = lambda x: sum(x) / len(x)
