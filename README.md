@@ -30,6 +30,26 @@ cd C:\Code
 ```
 python calculadora-beta.py
 ```
+#Here is a souce code to make you own simple calculator using python 
+print("Enter your first number:")
+n1 = int(input())
+print("Enter your operation:")
+operation = input()
+print("Enter your second number:")
+n2 = int(input())
+
+if operation == "+":
+    print("Your answer is " , n1 + n2)
+elif operation == "-":
+    print("Your answer is " , n1 - n2)
+elif operation == "*":
+    print("Your answer is " , n1 * n2)
+elif operation == "/":
+    print("Your answer is " , n1 / n2)
+elif operation == "**":
+    print("Your answer is " , n1 ** n2)
+else:
+    print("Invalid Input")
 
 ### `📝 Examples 📝`
 * Try out some calcs and commands. Here are some them:
