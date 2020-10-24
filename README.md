@@ -43,7 +43,7 @@ sum([x for x in range(1,5)])
 ----
 ### `✉️ Contact ✉️`
 
-> **Email:** `gabrielfelix08@outlook.com`
+> **Email:** `csfelix08@gmail.com`
 
 > **Linkedin:** `---`
 
