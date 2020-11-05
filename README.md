@@ -45,6 +45,6 @@ sum([x for x in range(1,5)])
 
 > **Email:** `csfelix08@gmail.com`
 
-> **Linkedin:** `---`
+> **Linkedin:** `linkedin.com/in/gabriel-felix-dos-santos-7443151bb/`
 
-> **Instagram:** `instagram.com/c0deplus`
+> **Instagram:** `instagram.com/c0deplus/`
